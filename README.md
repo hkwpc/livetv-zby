@@ -1,3 +1,8 @@
+# 申明并警告：
+本代码非原创内容，fork自github原作者，仅为本人测试学习之用，为了尊重原创作者，请勿复制转发，严禁非法商用传播，否则所产生的一切后果，由复制者自行承担！
+Declarier and warned: This code is non -original content. Copy the author of GitHub, which is only for testing and study. In order to respect the original authors, do not copy and forward it. It is strictly forbidden to transmit illegal commercial communication. Otherwise, all the consequences generated will be borne by the replica!
+
+
 # 自动获取酒店源  组播源 #
 
 使用方法：
